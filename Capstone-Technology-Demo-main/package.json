@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-community/cli": "^13.6.9",
+    "@react-native-community/cli-plugin-metro": "^12.3.6",
+    "@react-native-community/datetimepicker": "^8.0.1",
+    "@react-native/assets-registry": "^0.74.85",
+    "@react-navigation/native-stack": "^6.10.1",
+    "@types/react": "~18.2.79",
+    "axios": "^1.7.2",
+    "expo": "52.0.0",
+    "expo-av": "~14.0.7",
+    "expo-camera": "~15.0.16",
+    "expo-checkbox": "^3.0.0",
+    "expo-image-picker": "^15.0.7",
+    "expo-status-bar": "^1.12.1",
+    "firebase": "^10.12.3",
+    "http-server": "^14.1.1",
+    "metro": "^0.80.9",
+    "metro-config": "^0.80.9",
+    "metro-resolver": "^0.80.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "0.74.5",
+    "react-native-camera": "^4.2.1",
+    "react-native-date-picker": "^5.0.4",
+    "react-native-image-picker": "^7.1.2",
+    "react-native-safe-area-context": "^4.10.5",
+    "react-native-screens": "^3.31.1",
+    "react-native-simple-dialogs": "^2.1.0",
+    "react-native-video": "^6.5.0",
+    "typescript": "~5.3.3",
+    "use-state-with-callback": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.9",
+    "babel-preset-expo": "^11.0.12"
+  },
+  "name": "Capstone-Technology-Demo-main",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  }
+}
